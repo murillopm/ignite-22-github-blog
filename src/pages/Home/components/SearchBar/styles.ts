@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const SearchBarWrapper = styled.div`
+export const SearchBarWrapper = styled.form`
   width: 100%;
   margin-top: 72px;
   display: flex;
